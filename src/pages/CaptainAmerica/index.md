@@ -1,0 +1,19 @@
+---
+path: "/captainamerica"
+date: "2018-12-10"
+title: "Captain America"
+---
+
+
+
+
+**Captain America** (**Steve Rogers**) is a [fictional superhero](https://en.wikipedia.org/wiki/Character_(fiction)) appearing in [American comic books](https://en.wikipedia.org/wiki/American_comic_book) published by [Marvel Comics](https://en.wikipedia.org/wiki/Marvel_Comics). Created by [cartoonists](https://en.wikipedia.org/wiki/Cartoonists) [Joe Simon](https://en.wikipedia.org/wiki/Joe_Simon) and [Jack Kirby](https://en.wikipedia.org/wiki/Jack_Kirby), the character [first appeared](https://en.wikipedia.org/wiki/First_appearance) in _[Captain America Comics](https://en.wikipedia.org/wiki/Captain_America#Golden_Age)_ #1 ([
+
+cover dated](https://en.wikipedia.org/wiki/Cover_date) March 1941) from [Timely Comics](https://en.wikipedia.org/wiki/Timely_Comics), a predecessor of Marvel Comics. Captain America was designed as a [patriotic](https://en.wikipedia.org/wiki/American_patriotism) [supersoldier](https://en.wikipedia.org/wiki/Supersoldier) who often fought the [Axis powers](https://en.wikipedia.org/wiki/Axis_powers) of [World War II](https://en.wikipedia.org/wiki/World_War_II) and was Timely Comics' most popular character during the wartime period. The popularity of superheroes waned following the war and the _Captain America_ comic book was discontinued in 1950, with a short-lived revival in 1953. Since Marvel Comics revived the character in 1964, Captain America has remained in publication.
+
+The character wears a costume bearing an [American flag](https://en.wikipedia.org/wiki/Flag_of_the_United_States) [motif](https://en.wikipedia.org/wiki/Motif_(visual_arts)), and he utilizes a [nearly indestructible shield which he throws as a projectile](https://en.wikipedia.org/wiki/Captain_America%27s_shield). Captain America is the [alter ego](https://en.wikipedia.org/wiki/Alter_ego) of **Steve Rogers**, a frail young man enhanced to the peak of human perfection by an experimental serum to aid the [United States](https://en.wikipedia.org/wiki/United_States) government's efforts in World War II. Near the end of the war, he was trapped in ice and survived in [suspended animation](https://en.wikipedia.org/wiki/Cryopreservation) until he was revived in the present day. Although Captain America often struggles to maintain his 
+
+ideals as a man out of his time with its modern realities, he remains a highly respected figure in his community which includes becoming the long-time leader of the [Avengers](https://en.wikipedia.org/wiki/Avengers_(comics)).
+
+Captain America was the first Marvel Comics character to appear in media outside comics with the release of the 1944 [movie serial](https://en.wikipedia.org/wiki/Serial_(film)), _[Captain America](https://en.wikipedia.org/wiki/Captain_America_(serial))_. Since then, the character has been featured in [other films and television series](https://en.wikipedia.org/wiki/Captain_America_in_other_media). In the [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe) (MCU), the character is portrayed by [Chris Evans](https://en.wikipedia.org/wiki/Chris_Evans_(actor)) in _[Captain America: The First Avenger](https://en.wikipedia.org/wiki/Captain_America:_The_First_Avenger)_, _[The Avengers](https://en.wikipedia.org/wiki/The_Avengers_(2012_film))_, _[Captain America: The Winter Soldier](https://en.wikipedia.org/wiki/Captain_America:_The_Winter_Soldier)_, _[Avengers: Age of Ultron](https://en.wikipedia.org/wiki/Avengers:_Age_of_Ultron)_, _[Ant-Man](https://en.wikipedia.org/wiki/Ant-Man_(film))_, _[Captain America: Civil War](https://en.wikipedia.org/wiki/Captain_America:_Civil_War)_, _[Spider-Man: Homecoming](https://en.wikipedia.org/wiki/Spider-Man:_Homecoming)_, _[Avengers: Infinity War](https://en.wikipedia.org/wiki/Avengers:_Infinity_War)_ (2018), and _[Avengers: Endgame](https://en.wikipedia.org/wiki/Avengers:_Endgame)_ (2019).
+
