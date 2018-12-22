@@ -11,7 +11,7 @@ Kick off your project with this default boilerplate ([live demo](https://gatsby-
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
-## 🚀 Quick start
+##  Quick start
 
 1.  **Create a Gatsby site.**
 
@@ -39,7 +39,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
     
     Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
     
-## 🧐 What's inside?
+##  What's inside?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
 
@@ -93,6 +93,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 -   **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
 ## 💫 Deploy
+
+https://avengers-gatsby.netlify.com/
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
